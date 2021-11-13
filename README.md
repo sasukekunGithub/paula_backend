@@ -32,6 +32,13 @@ uvicorn main:app --reload
 * redoc http://127.0.0.1:8000/redoc
 
 
+## General
+
+* tried deploy on gcp using this [tutorial](https://www.tutlinks.com/deploy-fastapi-app-on-google-cloud-platform/) 
+-> worked but would have needed invoice information 
+* therefore [heroku tuturial](https://www.tutlinks.com/create-and-deploy-fastapi-app-to-heroku/)
+
+
 
 
 
